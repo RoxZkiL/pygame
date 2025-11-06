@@ -13,6 +13,7 @@ Clona el repositorio y ejecuta el juego con un solo comando:
 
 ```bash
 pip install . && invasion
+```
 
 🎮 Controles
 	•	⬅️ Mover izquierda
