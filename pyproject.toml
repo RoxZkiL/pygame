@@ -1,0 +1,13 @@
+[project]
+name = "invasion-espacial"
+version = "1.0.0"
+description = "Juego tipo Space Invaders con Pygame"
+requires-python = ">=3.10"
+
+[project.scripts]
+invasion = "src.invasion_espacial:main"
+
+[tool.pip]
+dependencies = [
+  "pygame"
+]
